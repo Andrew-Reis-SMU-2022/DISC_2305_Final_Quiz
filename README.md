@@ -1,0 +1,2 @@
+# DISC_2305_Final_Quiz
+This java program utilizes Java’s swing and AWT libraries to make a simple GUI. The program helps students study for their DISC 2305 final by showing them with a selected passage from a work read during class, and prompting them to provide the author, title, and reason why the passage is relevant to the work as a whole or to themes presented in the class. This closely follows the format of the first half of the final.
